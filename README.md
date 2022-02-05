@@ -1,0 +1,2 @@
+# PseudoCodigoLOBOOVELHAREPOLHO
+Pseudocodigo Jogo Lobo
